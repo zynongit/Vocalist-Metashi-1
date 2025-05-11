@@ -1,1 +1,10 @@
-
+{
+"header": {
+"title": "🎤 Vokalist Metashi 1",
+"subtitle": "Yapay zeka ses ve müzik siteniz!"
+},
+"about": {
+"title": "Proje Hakkında",
+"description": "Bu site sesler ve yapay zeka ile deneylere adanmıştır."
+}
+}
