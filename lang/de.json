@@ -1,1 +1,10 @@
-
+{
+  "header": {
+    "title": "🎤 Sänger Metashi 1",
+    "subtitle": "Ihre Site für KI-Sprache und Musik!"
+  },
+  "about": {
+    "title": "Über das Projekt",
+    "description": "Diese Site ist Experimenten mit Stimmen und KI gewidmet."
+  }
+}
