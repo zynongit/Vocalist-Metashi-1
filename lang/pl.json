@@ -1,1 +1,10 @@
-
+{
+"header": {
+"title": "🎤 Wokalista Metashi 1",
+"subtitle": "Twoja strona z głosem AI i muzyką!"
+},
+"about": {
+"title": "O projekcie",
+"description": "Ta strona jest poświęcona eksperymentom z głosami i AI."
+}
+}
